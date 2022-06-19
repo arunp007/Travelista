@@ -1,0 +1,68 @@
+   /* image text property */
+.center{
+    position: absolute;
+    top: 20%;
+    right: 25%;
+    color: white;
+    font-size: 100px;
+}
+
+.center1{
+    position: absolute;
+    top: 30%;
+    right: 17%;
+    color: white;
+    font-size: 50px;
+}
+
+.center2{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: white;
+    font-size: 50px;
+    }
+
+.center3{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color: white;
+    font-size: 50px;
+}
+
+.center4{
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    color: white;
+    font-size: 50px;
+}
+
+.center5{
+    position: absolute;
+    top: 60%;
+    right: 10%;
+    left: 10%;
+    color: white;
+    font-size: 35px;
+}
+
+/* Text Property image icon property */
+
+.icon1{
+
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 15px;
+    margin-bottom: 20px
+}
+
+.text1{
+    top: 50%;
+    left: 20%;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+
+}
